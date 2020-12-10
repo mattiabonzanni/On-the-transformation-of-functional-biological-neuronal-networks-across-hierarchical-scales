@@ -39,4 +39,4 @@ Each folder contains:
         2.2.2 Loop_PartialVolumeTessellation.m
     2.3 Vertex Simulation (unzip the folder)
         2.3.1 LoopLFPNetwork.m
-All the simulations are automatically saved in the  folder at the end with the data and time. 
+All the simulations are automatically saved in the folder at the end with the data and time. 
