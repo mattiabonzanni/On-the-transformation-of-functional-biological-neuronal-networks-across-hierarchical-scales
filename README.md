@@ -16,15 +16,15 @@ WHAT: In the simulation, the following parameters are studied across scales:
 
 There are three folders:
 
-Complete surface tessellation
+Complete surface tessellation - 
 Aim1: To generate a 2D network (Global Network) and, based on spatial arguments,completelly renormalize it (Modular Network). The complete renormalization implies a tessellation of the entire network.  
 Aim2: To study the network properties between the Global vs Modular networks.
 
-Partial volume tessellation
+Partial volume tessellation - 
 Aim1: To generate a 3D network (Global Network) and, based on spatial arguments,partially renormalize it (Modular Network). The partial renormalization implies a tessellation of a fraction of the entire network. 
 Aim2: To study the network properties between the Global vs Modular networks.
 
-Vertex Simulation
+Vertex Simulation - 
 To study the network properties of microscale vs mesoscale signals from the same artificial neuronal network. Please refer for Vertex simulations to (developed by Tomsett RJ): http://vertexsimulator.org/
 
 Each folder contains:
